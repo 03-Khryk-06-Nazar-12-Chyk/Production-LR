@@ -1,0 +1,135 @@
+body {
+    font-family: sans-serif;
+    background-color: lightblue;
+    text-align:center;
+}
+
+.builder:hover {
+    margin: 100px;
+    transform: scale(3);
+    transition:6s linear ;
+}
+
+h1 {
+    margin: 0;
+    text-align: center;
+    font-size: 60px;
+}
+
+.details {
+    display: inline-block;
+    margin-top: 20px;
+}
+
+img{
+    text-align: center;
+}
+
+div{
+    text-align: center;
+    padding: 20px;
+}
+
+h2{
+    font-size: 50px;
+    border-radius: 30px;
+    color:rgb(201, 15, 15);
+    background-color: yellow;
+    padding: 10px;
+}
+
+.vanilla{
+    font-size: 30px;
+     color:rgb(234, 236, 220);
+    background-color: rgb(224, 182, 75);
+}
+
+.straw{
+    font-size: 30px;
+     color:rgb(226, 195, 195);
+    background-color: rgb(255, 0, 0);
+}
+
+.caram{
+     font-size: 30px;
+     color:rgb(225, 197, 155);
+    background-color: rgb(141, 115, 49);
+}
+
+.tomato{
+     font-size: 30px;
+     color:rgb(245, 178, 178);
+    background-color: rgb(255, 0, 0);
+}
+
+.coffee{
+        font-size: 30px;
+     color:rgb(136, 115, 115);
+    background-color: rgb(111, 17, 17);
+}
+
+.choco{
+            font-size: 30px;
+     color:rgb(155, 134, 134);
+    background-color: rgb(118, 56, 56);
+}
+
+.potato{
+                font-size: 30px;
+     color:rgb(192, 72, 46);
+    background-color: rgb(255, 174, 0);
+}
+
+.curry{
+         font-size: 30px;
+     color:rgb(255, 170, 0);
+    background-color: rgb(182, 91, 26);
+}
+
+.rass{
+    font-size: 30px;
+     color:rgb(226, 195, 195);
+    background-color: rgb(233, 77, 131);
+}
+
+.brock{
+     font-size: 30px;
+     color:rgb(84, 226, 96);
+    background-color: rgb(16, 94, 33);   
+}
+
+.honey{
+        font-size: 30px;
+     color:rgb(255, 255, 0);
+    background-color: rgb(160, 126, 14);   
+}
+
+.plus4{
+         font-size: 30px;
+     color:rgb(255, 255, 0);
+    background-color: rgb(14, 112, 34);   
+}
+
+.peach{
+          font-size: 30px;
+     color:rgb(255, 170, 0);
+    background-color: rgb(194, 17, 17);      
+}
+
+.fridom{
+          font-size: 30px;
+     color:rgb(0, 162, 255);
+    background-color: rgb(85, 71, 169);    
+}
+
+.sivera{
+              font-size: 30px;
+     color:rgb(131, 253, 0);
+    background-color: rgb(52, 129, 28);    
+}
+
+.asai{
+             font-size: 30px;
+     color:rgb(131, 253, 0);
+    background-color: rgb(60, 1, 87);     
+}
